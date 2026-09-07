@@ -22,3 +22,13 @@ print("Length of Students Name:", len(students_name))
 print("Length of Students Profile:", len(student_profile))
 print("Length of Course Codes:", len(course_codes))
 
+# INDEXING
+print("\nFirst element of student_profile:", student_profile[0])
+print("Last element of student_profile:", student_profile[-1])
+
+# MEMBERSHIP TEST
+print("\nIs 201 in course_codes?", 201 in course_codes)
+
+
+
+
